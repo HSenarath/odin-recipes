@@ -11,10 +11,10 @@ To make this project a bit more fun to make I made my recipe website be revolved
 [Click here to see it in action!](https://hsenarath.github.io/odin-recipes/)
 
 ## HTML Skills Practiced
-* headings
-* paragraphs
-* bold
-* italic
-* list (ordered and unordered)
-* relative links
-* linkng images
+* Headings
+* Paragraphs
+* Bold
+* Italic
+* List (ordered and unordered)
+* Relative links
+* Linkng images
